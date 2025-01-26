@@ -48,7 +48,7 @@ const Experience = () => {
                     </div>
                     <div className="relative space-y-1 border-l-2 p-8 text-left">
 
-                        <h3 className='text-xl font-semibold md:text-2xl'>Experience 6</h3>
+                        <h3 className='text-xl font-semibold md:text-2xl'>Experience</h3>
                         <p className='font-light text-lg text-gray-600'>Job Title</p>
                         <p className='text-sm text-gray-600'>Hi there! I'm an aspiring UX/UI designer working towards my bachelor’s degree in Computer Science and Design at Northeastern University. Job Description. </p>
                         <span className='absolute -left-[11px] top-10 h-5 w-5 rounded-full bg-[#939e7b]'></span>
