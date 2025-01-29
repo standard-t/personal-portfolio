@@ -1,4 +1,5 @@
 import React from 'react'
+import { BiLogoFigma, BiLogoLinkedin } from 'react-icons/bi'
 
 const Projects = () => {
     return (
@@ -12,6 +13,14 @@ const Projects = () => {
                     <p className='text-sm text-gray-600'>
                         I’m passionate about combining my technical skills with my creative side to design user-friendly and intuitive digital experiences. Right now, I’m diving into courses and projects that help me learn more about user research, wireframing, prototyping, data visualization, and web development.
                     </p>
+                    <br />
+                    <div className='flex flex-col items-center'>
+                        <a href='https://github.com/standard-t'>
+                            <button>
+                                <BiLogoFigma className='h-10 w-10 cursor-pointer rounded-full border-2 border-transparent bg-[#4f6032] p-2 text-white transition-all duration-200 hover:scale-110 hover:border-[#4f6032] hover:bg-white hover:text-[#4f6032] md:h-12 md:w-12' />
+                            </button>
+                        </a>
+                    </div>
                 </div>
                 <div className="text-left space-y-2 border-2 hover:scale-105 transition-all duration-200 cursor-pointer px-8 py-10 border-[#939e7b] rounded-lg hover:bg-[#f3f7eb] ">
                     <h1 className='text-3xl font-semibold '>Project1</h1>
