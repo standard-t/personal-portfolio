@@ -24,7 +24,7 @@ const Home = () => {
                     </h3>
 
 
-                    <p className='max-w-[500px] text-sm text-gray-500'>
+                    <p className='max-w-[450px] text-sm text-gray-500 text-left translate-x-4'>
                     Hi there! I'm an aspiring UX/UI designer working towards my bachelor’s degree in Computer Science and Design at Northeastern University. I’m passionate about combining my technical skills with my creative side to design user-friendly and intuitive digital experiences. Right now, I’m diving into courses and projects that help me learn more about user research, wireframing, prototyping, data visualization, and web development. I’m always looking for opportunities to connect with others, learn from mentors, and grow in the ever-evolving world of UX design!
                     </p>
                 </div>

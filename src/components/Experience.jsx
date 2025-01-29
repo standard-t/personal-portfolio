@@ -30,6 +30,13 @@ const Experience = () => {
                         <p className='text-sm text-gray-600'>Designed article pages and spreads for the print edition of a student-run science magazine, focusing on visually engaging layouts that complemented the content and enhanced readability. Worked closely with editors and writers to ensure each design aligned with the magazine’s vision and communicated complex scientific concepts in an accessible and visually appealing way. Contributed to the overall look and feel of the publication, helping to maintain a cohesive design language throughout.</p>
                         <span className='absolute -left-[11px] top-10 h-5 w-5 rounded-full bg-[#939e7b]'></span>
                     </div>
+                    <div className="relative space-y-1 border-l-2 p-8 text-left">
+
+                        <h3 className='text-xl font-semibold md:text-2xl'>Sunday River</h3>
+                        <p className='font-light text-lg text-gray-600'>Ski Instructor</p>
+                        <p className='text-sm text-gray-600'>Organized and taught ski lessons to groups of up to 9 children, ages 3-4, creating an engaging and educational environment that kept young learners excited and motivated. Focused on balancing skill development with fun, while also assessing and addressing each child’s physical and emotional needs to ensure a positive and supportive experience.</p>
+                        <span className='absolute -left-[11px] top-10 h-5 w-5 rounded-full bg-[#939e7b]'></span>
+                    </div>
                 </div>
                 <div className="flex1">
                     <div className="relative space-y-1 border-l-2 p-8 text-left">
@@ -48,9 +55,17 @@ const Experience = () => {
                     </div>
                     <div className="relative space-y-1 border-l-2 p-8 text-left">
 
-                        <h3 className='text-xl font-semibold md:text-2xl'>Sunday River</h3>
-                        <p className='font-light text-lg text-gray-600'>Ski Instructor</p>
-                        <p className='text-sm text-gray-600'>Organized and taught ski lessons to groups of up to 9 children, ages 3-4, creating an engaging and educational environment that kept young learners excited and motivated. Focused on balancing skill development with fun, while also assessing and addressing each child’s physical and emotional needs to ensure a positive and supportive experience.</p>
+                        <h3 className='text-xl font-semibold md:text-2xl'>Alpha Phi Omega</h3>
+                        <p className='font-light text-lg text-gray-600'>Fraternity Member</p>
+                        <p className='text-sm text-gray-600'>Contributed to community service projects across Boston, assessing and addressing local needs through hands-on support. Engaged in social events to strengthen community ties and foster connections within the chapter.
+                        </p>
+                        <span className='absolute -left-[11px] top-10 h-5 w-5 rounded-full bg-[#939e7b]'></span>
+                    </div>
+                    <div className="relative space-y-1 border-l-2 p-8 text-left">
+
+                        <h3 className='text-xl font-semibold md:text-2xl'>Jewish Community Center Boston</h3>
+                        <p className='font-light text-lg text-gray-600'>Assistant Teacher</p>
+                        <p className='text-sm text-gray-600'>Fostered a nurturing and engaging environment for young children to learn and grow by engaging in creative activities, managing daily routines, and building strong, supportive relationships with children and their families.</p>
                         <span className='absolute -left-[11px] top-10 h-5 w-5 rounded-full bg-[#939e7b]'></span>
                     </div>
                 </div>
