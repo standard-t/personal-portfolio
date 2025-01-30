@@ -15,7 +15,7 @@ const Projects = () => {
                     </p>
                     <br />
                     <div className='flex flex-col items-center'>
-                        <a href='https://github.com/standard-t'>
+                        <a href='https://www.figma.com/design/zFNSfgiFywYGwDuJJaMYt1/Project-SkiMate---sms-designs?node-id=0-1&p=f&t=wRojzfmd3RLh4rDn-0'>
                             <button>
                                 <BiLogoFigma className='h-10 w-10 cursor-pointer rounded-full border-2 border-transparent bg-[#4f6032] p-2 text-white transition-all duration-200 hover:scale-110 hover:border-[#4f6032] hover:bg-white hover:text-[#4f6032] md:h-12 md:w-12' />
                             </button>
