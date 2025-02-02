@@ -11,7 +11,7 @@ const Contact = () => {
                 </div>
                 <textarea type='text' name='message' placeholder='Your Message' className=' w-full resize-none rounded-lg border-2 border-[#939e7b] px-4 py-3 h-120 text-lg outline-none transition-all duration-200 hover:bg-[#f3f7eb] focus:ring-2 focus:ring-[#4f6032]'></textarea>
                 <button type='submit' className='rounded-lg border-2 border-[#4f6032] bg-[#778459] px-6 py-3 font-semibold text-white transition-all duration-200 hover:bg-[#4f6032]'>Send Message</button>
-                <input type="hidden" name="_next" value="https://yourdomain.co/thanks.html"></input>
+                <input type="hidden" name="_next" value="https://tara-standard.netlify.app/#home"></input>
             </form>
 
         </div >
