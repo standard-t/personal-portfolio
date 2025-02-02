@@ -4,8 +4,6 @@ import Design from "./components/Design";
 import Coding from "./components/Coding";
 import Experience from "./components/Experience";
 import Contact from "./components/Contact";
-import { BrowserRouter, Routes, Route } from 'react-router-dom'
-
 
 
 
