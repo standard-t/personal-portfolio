@@ -6,7 +6,7 @@ const Coding = () => {
         <div id='coding' className='min-h-screen w-full flex flex-col gap-20 p-10 md:p-16 xl:p-32 '>
             <h1 className='text-center text-5xl font-light'>Coding Projects</h1>
             <div className='grid grid-cols-1 gap-5'>
-                <div className="flex items-center text-left justify-center space-y-2 border-2 hover:scale-105 transition-all duration-200 cursor-pointer px-12 py-10 border-[#939e7b] rounded-lg hover:bg-[#f3f7eb] ">
+                <div className="flex items-center text-left justify-center space-y-2 border-2 hover:scale-105 transition-all duration-200 cursor-pointer px-12 py-10 border-[#939e7b] rounded-lg">
                     <video width="320" height="240" controls src="lightem.mov"></video>
                     <div className='px-10'>
                         <h1 className='text-3xl font-semibold py-2'>Light'Em All</h1>
@@ -15,7 +15,7 @@ const Coding = () => {
                         </p>
                     </div>
                 </div>
-                <div className="flex items-center text-left justify-center space-y-2 border-2 hover:scale-105 transition-all duration-200 cursor-pointer px-12 py-10 border-[#939e7b] rounded-lg hover:bg-[#f3f7eb] ">
+                <div className="flex items-center text-left justify-center space-y-2 border-2 hover:scale-105 transition-all duration-200 cursor-pointer px-12 py-10 border-[#939e7b] rounded-lg ">
                     <video width="320" height="100" controls src="minesweeper.mov"></video>
                     <div className='px-10'>
                         <h1 className='text-3xl font-semibold py-2'>Minesweeper</h1>
@@ -24,7 +24,7 @@ const Coding = () => {
                         </p>
                     </div>
                 </div>
-                <div className="flex items-center text-left justify-center space-y-2 border-2 hover:scale-105 transition-all duration-200 cursor-pointer px-12 py-10 border-[#939e7b] rounded-lg hover:bg-[#f3f7eb] ">
+                <div className="flex items-center text-left justify-center space-y-2 border-2 hover:scale-105 transition-all duration-200 cursor-pointer px-12 py-10 border-[#939e7b] rounded-lg">
                     <video width="320" height="240" controls src="pipes.mov"></video>
                     <div className='px-10'>
                         <h1 className='text-3xl font-semibold py-2'>Pipe Fantasy</h1>
@@ -33,7 +33,7 @@ const Coding = () => {
                         </p>
                     </div>
                 </div>
-                <div className="flex items-center text-left justify-center space-y-2 border-2 hover:scale-105 transition-all duration-200 cursor-pointer px-12 py-10 border-[#939e7b] rounded-lg hover:bg-[#f3f7eb] ">
+                <div className="flex items-center text-left justify-center space-y-2 border-2 hover:scale-105 transition-all duration-200 cursor-pointer px-12 py-10 border-[#939e7b] rounded-lg">
                     <video width="320" height="240" controls src="whack-a-mole.mov"></video>
                     <div className='px-10'>
                         <h1 className='text-3xl font-semibold py-2'>Whack-a-Mole</h1>
@@ -42,7 +42,7 @@ const Coding = () => {
                         </p>
                     </div>
                 </div>
-                <div className="flex items-center text-left justify-center space-y-2 border-2 hover:scale-105 transition-all duration-200 cursor-pointer px-12 py-10 border-[#939e7b] rounded-lg hover:bg-[#f3f7eb] ">
+                <div className="flex items-center text-left justify-center space-y-2 border-2 hover:scale-105 transition-all duration-200 cursor-pointer px-12 py-10 border-[#939e7b] rounded-lg">
                     <video width="320" height="240" controls src="typing.mov"></video>
                     <div className='px-10'>
                         <h1 className='text-3xl font-semibold py-2'>Typing Game</h1>
