@@ -65,7 +65,7 @@ const Design = () => {
                     <div className='px-5'>
                         <h1 className='text-3xl font-semibold pt-5 pb-2'>SkiMate</h1>
                         <p className='text-sm text-gray-600 max-w-[650px]'>
-                            Spearheaded the design of a mobile app to connect snow sports enthusiasts, managing the mobile interface, workflows, brand identity, and design system. Collaborated with the CEO, product manager, and developers to define the target audience and value proposition, setting the stage for a successful Phase 1 launch. Developed user requirements and scenarios to ensure a seamless, engaging experience.
+                            SkiMate is a mobile app designed to connect snow sports enthusiasts, fostering community and new connections. I contributed to the project by creating a cohesive brand identity, conducting user research, and designing intuitive workflows. Key features include a feed of reccommended users, a trip planning calendar, location-based recommendations, and a messaging system for users to connect before mutual matches. I worked closely with a cross-functional team to asses use cases and create an algorithm which would reccommend connections based on age, interests, location, among other preferences. Together we prioritized features for the Phase 1 launch while ensuring the app could scale with future iterations. The result is a polished Figma prototype which is in the process of being developed into a mobile app aimed at building an engaging, inclusive platform for the snow sports community.
                         </p>
                     </div>
                 </div>
@@ -83,7 +83,7 @@ const Design = () => {
                     <div className='px-5'>
                         <h1 className='text-3xl font-semibold pt-5 pb-2'>Mass General Safe Sleep</h1>
                         <p className='text-sm text-gray-600 max-w-[650px]'>
-                            Crafted a suite of posters, brochures, and promotional materials to educate new parents on safe sleeping practices for newborns, displayed throughout Mass General’s NICU and maternity ward. Simplified complex information to highlight key points, dispel misconceptions, and reduce infant sleep-related deaths through clear, accessible design, all while adhering to Mass General’s style guidelines.
+                            For this project, I worked closely with the Professional Development Manager in the OB Department to create a suite of educational materials aimed at promoting safe sleep practices for newborns. The project’s goal was to simplify complex information, making it clear and accessible to all parents while addressing misconceptions and reducing sleep-related infant deaths. To achieve this, I designed posters, brochures, and crib cards that adhered to Mass General’s style guidelines, ensuring consistency and professionalism. The materials are to be displayed in the NICU and Maternity wards, providing crucial information to new parents at a critical time. Through this project I learned how to distill complex information into easily digestible content.
                         </p>
                     </div>
                 </div>
@@ -102,7 +102,7 @@ const Design = () => {
                     <div className='px-5'>
                         <h1 className='text-3xl font-semibold pt-5 pb-2'>Project Hot Sauce</h1>
                         <p className='text-sm text-gray-600 max-w-[650px]'>
-                            Partnered with Northeastern Campus Operations and sensor engineers to design a data visualization system displaying live and historical HVAC system status (temperature, humidity, CO2) to identify trends and optimize functionality while staying consistent with Northeastern branding. Conducted user research and testing through interviews and observational studies to identify needs, create interaction scenarios, and inform design decisions, ultimately delivering a polished Figma prototype.
+                            In collaboration with fellow students, I worked with Northeastern Campus Operations and sensor engineers to design a data visualization system that displays live and historical HVAC system data, focusing on temperature, humidity, and CO2 levels to identify trends and optimize system functionality. We conducted user interviews, affinity diagramming, and persona creation to gather insights, which helped define key features and use cases for the product. Using this information, we created storyboards and developed a low-fidelity prototype, which we tested with users to understand their pain points and mental models. Based on user feedback, we refined the design and delivered a polished Figma prototype and design system, enhancing the system's usability and effectiveness. This project strengthened my skills in collaboration, user research, and prototyping, while emphasizing the importance of aligning design and functionality with user needs.
                         </p>
                     </div>
                 </div>
@@ -118,7 +118,7 @@ const Design = () => {
                     <div className='px-5'>
                         <h1 className='text-3xl font-semibold pt-5 pb-2'>NuSci Magazine</h1>
                         <p className='text-sm text-gray-600 max-w-[650px]'>
-                            Designed article pages and spreads for the print edition of a student-run science magazine, focusing on visually engaging layouts that complemented the content and enhanced readability. Worked closely with editors and writers to ensure each design aligned with the magazine’s vision and communicated complex scientific concepts in an accessible and visually appealing way. Contributed to the overall look and feel of the publication, helping to maintain a cohesive design language throughout.
+                            For the print edition of a student-run science magazine, I designed article pages and spreads that are visually engaging while ensuring readability. I worked closely with editors and writers to ensure that each layout aligned with the magazine’s vision and made complex scientific concepts more accessible to a broad audience. By focusing on thoughtful design, I helped maintain a cohesive aesthetic throughout the publication. My role in this organization has deepened my skills in creating designs that balance creativity with clarity, ensuring the content was both informative and visually appealing.
                         </p>
                     </div>
                 </div>
@@ -144,7 +144,7 @@ const Design = () => {
                     <div className='px-5'>
                         <h1 className='text-3xl font-semibold pt-5 pb-2'>Needham Craft Fair Advertisements</h1>
                         <p className='text-sm text-gray-600 max-w-[650px]'>
-                            Collaborated with event administration to develop and execute social media campaigns promoting a local craft fair. Created eye-catching advertisements tailored to different platforms, aimed at increasing event visibility and engagement within the community. Worked closely with the team to align messaging with the fair’s branding and target audience, driving attendance and excitement.
+                            In collaborated with the Needham Craft Fair event administration, I developed and executed social media campaigns promoting a local craft fair, with the goal of increasing visibility and community engagement. By creating eye-catching advertisements, I helped boost the event's online presence and attract a larger audience. Throughout the process I ensured that my designs and messaging aligned  with the fair’s branding and target audience to drive attendance and excitement. This project taught me how to craft targeted, audience-specific content that resonates with the community while effectively promoting an event.
                         </p>
                     </div>
                 </div>
@@ -167,7 +167,7 @@ const Design = () => {
                     <div className='px-5'>
                         <h1 className='text-3xl font-semibold pt-5 pb-2'>Wake Brew Experience Design</h1>
                         <p className='text-sm text-gray-600 max-w-[650px]'>
-                            Collaborated with group-mates to create an innovative coffee machine that uses caffeine diffusion, ambient lighting, and music to gently wake users. Through a user-centered design approach, we mapped the waking-up experience, created storyboards, and prototyped interactive flows via sketches. Our iterative process included user studies to refine functionality and ensure an intuitive, seamless experience, culminating in a polished, high-fidelity storyboard that captures the final product's impact.
+                            For this project, my team and I developed an innovative coffee machine designed to gently wake users using caffeine diffusion, ambient lighting, and music. Our goal was to create a user-centered experience that redefined the traditional waking-up process. We began by mapping the experience, creating storyboards, and prototyping interactive flows, using sketches to visualize the product. Throughout the project, we followed an iterative design process that included multiple revisions of the product’s form and functionality, conducting user testing to refine our approach and ensure the experience was seamless and intuitive. This process ultimately led to a polished, high-fidelity storyboard that captured the final product's impact, teaching me how to combine user feedback with creative solutions to design a truly unique experience.
                         </p>
                     </div>
                 </div>
