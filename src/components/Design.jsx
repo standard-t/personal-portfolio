@@ -171,6 +171,28 @@ const Design = () => {
                         </p>
                     </div>
                 </div>
+                <div className="text-left justify-center space-y-2 border-2 hover:scale-105 transition-all duration-200 cursor-pointer px-12 py-10 border-[#939e7b] rounded-lg ">
+                    <Carousel responsive={responsive1} infinite={true} centerMode={true}>
+                        <div className='px-3'><img src="./flow/flow1.png" /></div>
+                        <div className='px-3'><img src="./flow/flow2.png" /></div>
+                        <div className='px-3'><img src="./flow/flow3.png" /></div>
+                        <div className='px-3'><img src="./flow/flow4.png" /></div>
+                        <div className='px-3'><img src="./flow/flow5.png" /></div>
+                        <div className='px-3'><img src="./flow/flow6.png" /></div>
+                        <div className='px-3'><img src="./flow/flow7.png" /></div>
+                        <div className='px-3'><img src="./flow/flow8.png" /></div>
+                        <div className='px-3'><img src="./flow/flow9.png" /></div>
+                        <div className='px-3'><img src="./flow/flow10.png" /></div>
+                        <div className='px-3'><img src="./flow/flow11.png" /></div>
+                        <div className='px-3'><img src="./flow/flow12.png" /></div>
+                    </Carousel>
+                    <div className='px-5'>
+                        <h1 className='text-3xl font-semibold pt-5 pb-2'>FlowLogic Water Usage Tracker</h1>
+                        <p className='text-sm text-gray-600 max-w-[650px]'>
+                            This project involved assessing the cultural, monetary, and functional values of a traditional kitchen sink, with the goal of redesigning it to promote water conservation. Through an iterative process of sketching, finalizing designs, and creating a Figma prototype website, I developed a product line of sinks equipped with sensors and interfaces to track water usage. This line, offering various price points, encourages sustainability and affordability through habit tracking. I evaluated the revised product's values while ensuring it aligned with the original sink's cultural, monetary, and functional essence.
+                        </p>
+                    </div>
+                </div>
             </div>
         </div>
 
