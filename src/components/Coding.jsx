@@ -25,6 +25,23 @@ const Coding = () => {
         <div id='coding' className='min-h-screen w-full flex flex-col gap-20 p-10 md:p-16 xl:p-32 '>
             <h1 className='text-center text-5xl font-light'>Coding Projects</h1>
             <div className='grid grid-cols-1 gap-5'>
+                <div className="text-left justify-center space-y-2 border-2 hover:scale-105 transition-all duration-200 cursor-pointer px-12 py-10 border-[#939e7b] rounded-lg ">
+                    <Carousel responsive={responsive1} infinite={true} centerMode={true}>
+                        <div className='px-3'><img src="./canvas/canvas1.png" /></div>
+                        <div className='px-3'><img src="./canvas/canvas2.png" /></div>
+                        <div className='px-3'><img src="./canvas/canvas3.png" /></div>
+                        <div className='px-3'><img src="./canvas/canvas4.png" /></div>
+                        <div className='px-3'><img src="./canvas/canvas5.png" /></div>
+                        <div className='px-3'><img src="./canvas/canvas6.png" /></div>
+                    </Carousel>
+                    <div className='px-5'>
+                        <h1 className='text-3xl font-semibold pt-5 pb-2'>Canvas Replica</h1>
+                        <a href='https://a6--tstandard-kambaz-web-app.netlify.app/'><b><u>VISIT HERE</u></b></a>
+                        <p className='text-sm text-gray-600 max-w-[650px]'>
+                            Recreating a web-based Learning Management System (LMS) similar to Canvas, built using React.js, TypeScript, JavaScript, HTML, Bootstrap, MongoDB, and Express.js. Designed with both students and instructors in mind, the platform offers a responsive and intuitive interface for managing courses, assignments, quizzes, grades, and user profiles. The front end includes a personalized dashboard, role-based UI, assignment workflows, and modern responsive design. On the back end, the application follows RESTful API principles to ensure clean, scalable, and maintainable communication between the client and server. It supports real-time data interactions, user authentication, and role-specific access control. Students can browse and enroll in courses, while faculty can create and manage their own. A robust quizzes module allows faculty to build assessments with configurable settings and multiple question types, and students can take quizzes and receive feedback based on stored attempts. This project honed my ability to architect and implement full-stack solutions that are both technically sound and user-centered using the MERN stack.
+                        </p>
+                    </div>
+                </div>
                 <div className="flex items-center text-left justify-center space-y-2 border-2 hover:scale-105 transition-all duration-200 cursor-pointer px-12 py-10 border-[#939e7b] rounded-lg">
                     <video width="320" height="240" controls src="lightem.mov"></video>
                     <div className='px-10'>
@@ -70,22 +87,7 @@ const Coding = () => {
                         </p>
                     </div>
                 </div>
-                <div className="text-left justify-center space-y-2 border-2 hover:scale-105 transition-all duration-200 cursor-pointer px-12 py-10 border-[#939e7b] rounded-lg ">
-                    <Carousel responsive={responsive1} infinite={true} centerMode={true}>
-                        <div className='px-3'><img src="./canvas/canvas1.png" /></div>
-                        <div className='px-3'><img src="./canvas/canvas2.png" /></div>
-                        <div className='px-3'><img src="./canvas/canvas3.png" /></div>
-                        <div className='px-3'><img src="./canvas/canvas4.png" /></div>
-                        <div className='px-3'><img src="./canvas/canvas5.png" /></div>
-                        <div className='px-3'><img src="./canvas/canvas6.png" /></div>
-                    </Carousel>
-                    <div className='px-5'>
-                        <h1 className='text-3xl font-semibold pt-5 pb-2'>Canvas Replica</h1>
-                        <p className='text-sm text-gray-600 max-w-[650px]'>
-                            Recreating a web-based Learning Management System (LMS) similar to Canvas, using HTML, CSS, and JavaScript to replicate the platform’s aesthetic and functionality with the goal of creating a responsive and user-friendly interface that dynamically loads course materials, assignments, grades, and people. Used HTML and CSS to design a responsive layout, while utilizing JavaScript to ensure smooth, dynamic content rendering and manage user interactions. Currently working on integrating RESTful APIs and NoSQL for further functionality and improved data management.
-                        </p>
-                    </div>
-                </div>
+
             </div>
         </div>
 
