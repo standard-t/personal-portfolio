@@ -149,6 +149,16 @@ const Design = () => {
                     </div>
                 </div>
                 <div className="text-left justify-center space-y-2 border-2 hover:scale-105 transition-all duration-200 cursor-pointer px-12 py-10 border-[#939e7b] rounded-lg ">
+                    <img src="cover.png" width="350" className="mx-auto block" />
+                    <div className='px-5'>
+                        <h1 className='text-3xl font-semibold pt-5 pb-2'>Nature's Intelligence Research Dossier</h1>
+                        <a href='https://drive.google.com/file/d/1dIf37-D_hz4M1JJmMC2hT0sNYMhDG9t-/view?usp=sharing'><b><u>READ FULL DOSSIER</u></b></a>
+                        <p className='text-sm text-gray-600 max-w-[650px]'>
+                            This 20-page research dossier is a writted and visual documentation of my process exploring the evolution and future of biodesign and biomimicry, examining how nature has inspired innovation across cultures—from early inventions like planes and velcro to modern designs such as the Shinkansen Bullet Train and Zimbabwe’s Eastgate Centre. It highlights emerging sustainable materials like algae-based plastics and mycelium bricks, and features pioneers like textile designer Suzanne Lee. Through examples like the BIQ House in Hamburg, the dossier considers how biomaterials could shape environmentally conscious architecture, especially for temporary structures. It argues for a shift toward interdisciplinary design and engineering education, and concludes by asking whether humanity can move toward a truly reciprocal relationship with nature—using it not just as inspiration, but as a collaborator in sustainable progress.
+                        </p>
+                    </div>
+                </div>
+                <div className="text-left justify-center space-y-2 border-2 hover:scale-105 transition-all duration-200 cursor-pointer px-12 py-10 border-[#939e7b] rounded-lg ">
                     <Carousel responsive={responsive1} infinite={true} centerMode={true}>
                         <div className='px-3'><img src="./Coffee/machine1.png" /></div>
                         <div className='px-3 py-4'><br /><br /><br /><br /><br /><img src="./Coffee/machine2.png" /></div>
