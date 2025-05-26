@@ -159,6 +159,43 @@ const Design = () => {
                     </div>
                 </div>
                 <div className="text-left justify-center space-y-2 border-2 hover:scale-105 transition-all duration-200 cursor-pointer px-12 py-10 border-[#939e7b] rounded-lg ">
+                    <Carousel responsive={responsive2} infinite={true} centerMode={true}>
+                        <div className="px-1 flex justify-center">
+                            <img src="./groupify/groupify1.png" className="w-full max-w-[180px] h-auto" />
+                        </div>
+                        <div className="px-1 flex justify-center">
+                            <img src="./groupify/groupify2.png" className="w-full max-w-[180px] h-auto" />
+                        </div>
+                        <div className="px-1 flex justify-center">
+                            <img src="./groupify/groupify3.png" className="w-full max-w-[180px] h-auto" />
+                        </div>
+                        <div className="px-1 flex justify-center">
+                            <img src="./groupify/groupify4.png" className="w-full max-w-[180px] h-auto" />
+                        </div>
+                        <div className="px-1 flex justify-center">
+                            <img src="./groupify/groupify5.png" className="w-full max-w-[180px] h-auto" />
+                        </div>
+                        <div className="px-1 flex justify-center">
+                            <img src="./groupify/groupify6.png" className="w-full max-w-[180px] h-auto" />
+                        </div>
+                        <div className="px-1 flex justify-center">
+                            <img src="./groupify/groupify7.png" className="w-full max-w-[180px] h-auto" />
+                        </div>
+                        <div className="px-1 flex justify-center">
+                            <img src="./groupify/groupify8.png" className="w-full max-w-[180px] h-auto" />
+                        </div>
+                        <div className="px-1 flex justify-center">
+                            <img src="./groupify/groupify9.png" className="w-full max-w-[180px] h-auto" />
+                        </div>
+                    </Carousel>
+                    <div className='px-5'>
+                        <h1 className='text-3xl font-semibold pt-5 pb-2'>Groupify</h1>
+                        <p className='text-sm text-gray-600 max-w-[650px]'>
+                            For the Groupify project, our team sought to foster belongingness for first-generation and international students at Northeastern University by designing a mobile app to facilitate low-commitment, interest-based social connections. Through formative interviews and affinity diagramming, we identified key user needs—flexibility, simplicity, and academic prioritization. Initial paper prototypes, including an innovative but overly complex Navigator app, taught us that streamlined, familiar workflows resonated better with users. Iterating based on user feedback, we refined Groupify into a polished, fully interactive Figma prototype. This prototype features an intuitive interface with event creation, joining/leaving, and dynamic group messaging, empowering students to connect casually without long-term obligations. The process underscored the value of empathetic, user-centered design over reinvention, resulting in a solution tailored to busy students navigating new academic and cultural landscapes.
+                        </p>
+                    </div>
+                </div>
+                <div className="text-left justify-center space-y-2 border-2 hover:scale-105 transition-all duration-200 cursor-pointer px-12 py-10 border-[#939e7b] rounded-lg ">
                     <Carousel responsive={responsive1} infinite={true} centerMode={true}>
                         <div className='px-3'><img src="./Coffee/machine1.png" /></div>
                         <div className='px-3 py-4'><br /><br /><br /><br /><br /><img src="./Coffee/machine2.png" /></div>
