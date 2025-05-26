@@ -42,6 +42,22 @@ const Coding = () => {
                         </p>
                     </div>
                 </div>
+                <div className="text-left justify-center space-y-2 border-2 hover:scale-105 transition-all duration-200 cursor-pointer px-12 py-10 border-[#939e7b] rounded-lg ">
+                    <Carousel responsive={responsive1} infinite={true} centerMode={true}>
+                        <div className='px-3'><img src="./dsfinal/ds1.png" /></div>
+                        <div className='px-3'><img src="./dsfinal/ds2.png" /></div>
+                        <div className='px-3'><img src="./dsfinal/ds3.png" /></div>
+                        <div className='px-3'><img src="./dsfinal/ds4.png" /></div>
+                        <div className='px-3'><img src="./dsfinal/ds5.png" /></div>
+                    </Carousel>
+                    <div className='px-5'>
+                        <h1 className='text-3xl font-semibold pt-5 pb-2'>Student Performance Factors Analysis</h1>
+                        <a href='https://vedantgupta67.github.io/'><b><u>VISIT HERE</u></b></a>
+                        <p className='text-sm text-gray-600 max-w-[650px]'>
+                            In this collaborative project, I worked with two other students to analyze a dataset of 6,609 students to uncover how various factors influence academic performance, including exam scores, school type, learning disabilities status, gender, support systems, and motivation levels. Using Python and Altair, we developed a suite of interactive data visualizations and presented our findings through a styled web dashboard built with HTML and CSS. Our visualizations included scatterplots that revealed strong positive correlations between exam scores and both hours studied and attendance, as well as bar charts showing that high parental involvement and greater access to resources significantly boosted performance, while teacher quality had a subtler effect. A combined scatterplot and bar chart explored the nuanced role of motivation, showing it had less consistent influence than study habits, and a comparison of students with and without learning disabilities across public and private schools highlighted relatively equitable academic support, though small gaps remained. Lastly, histograms created with D3.js broke down exam score distributions by gender, showing similar bell-shaped curves but with slightly more score variability among male students. This project sharpened my skills in Python programming, data analysis, and interactive design, and strengthened my ability to communicate complex patterns through accessible, visual storytelling.
+                        </p>
+                    </div>
+                </div>
                 <div className="flex items-center text-left justify-center space-y-2 border-2 hover:scale-105 transition-all duration-200 cursor-pointer px-12 py-10 border-[#939e7b] rounded-lg">
                     <video width="320" height="240" controls src="lightem.mov"></video>
                     <div className='px-10'>
