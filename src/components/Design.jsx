@@ -197,6 +197,26 @@ const Design = () => {
                 </div>
                 <div className="text-left justify-center space-y-2 border-2 hover:scale-105 transition-all duration-200 cursor-pointer px-12 py-10 border-[#939e7b] rounded-lg ">
                     <Carousel responsive={responsive1} infinite={true} centerMode={true}>
+                        <div className='px-3'><img className="w-full h-auto mx-auto" src="./fens/fens1.png" /></div>
+                        <div className='px-3'><img className="w-full h-auto mx-auto" src="./fens/fens2.png" /></div>
+                        <div className='px-3'><img className="w-full h-auto mx-auto" src="./fens/fens3.png" /></div>
+                        <div className='px-3'><img className="w-full h-auto mx-auto" src="./fens/fens4.png" /></div>
+                        <div className='px-3'><img className="w-full h-auto mx-auto" src="./fens/fens5.png" /></div>
+                        <div className='px-3'><img className="w-full h-auto mx-auto" src="./fens/fens6.png" /></div>
+                        <div className='px-3'><img className="w-full h-auto mx-auto" src="./fens/fens7.png" /></div>
+                        <div className='px-3'><img className="w-full h-auto mx-auto" src="./fens/fens8.png" /></div>
+                        <div className='px-3'><img className="w-full h-auto mx-auto" src="./fens/fens9.png" /></div>
+                    </Carousel>
+                    <div className='px-5'>
+                        <h1 className='text-3xl font-semibold pt-5 pb-2'>The Fens Site Specific Installations</h1>
+                        <a href='https://drive.google.com/file/d/1xZ5e5evmGw5g3r7S56TgmchOeAsK2IfJ/view?usp=sharing'><b><u>VIEW FULL PRESENTATION</u></b></a>
+                        <p className='text-sm text-gray-600 max-w-[650px]'>
+                            This collaborative group project explored the environmental history and landscape of Boston’s Back Bay Fens, designing a series of site-specific installations aimed at engaging college students and local residents. Centered on the Fens’ transformation from marshland to industrial site to urban park, our work sheds light on its constructed nature and ongoing ecological challenges—particularly water pollution. We proposed three installations of different durations: a one-hour community cleanup event, a ten-year pH strip display reflecting water quality over time, and a one-hundred-year statue of Frederick Olmsted designed to erode with the riverbank and prompt reflection on environmental progress. Using Adobe Illustrator, we created detailed mock-ups of each installation along with promotional materials and an animation, carefully selecting their proposed locations within the Fens for maximum community visibility and impact. Through these designs, we aim to spark awareness, participation, and long-term environmental responsibility.
+                        </p>
+                    </div>
+                </div>
+                <div className="text-left justify-center space-y-2 border-2 hover:scale-105 transition-all duration-200 cursor-pointer px-12 py-10 border-[#939e7b] rounded-lg ">
+                    <Carousel responsive={responsive1} infinite={true} centerMode={true}>
                         <div className='px-3'><img src="./Coffee/machine1.png" /></div>
                         <div className='px-3 py-4'><br /><br /><br /><br /><br /><img src="./Coffee/machine2.png" /></div>
                         <div className='px-3 py-4'><br /><br /><br /><br /><img src="./Coffee/machine3.png" /></div>
