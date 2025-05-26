@@ -68,6 +68,13 @@ const Experience = () => {
                         <p className='text-sm text-gray-600'>Fostered a nurturing and engaging environment for young children to learn and grow by engaging in creative activities, managing daily routines, and building strong, supportive relationships with children and their families.</p>
                         <span className='absolute -left-[11px] top-10 h-5 w-5 rounded-full bg-[#939e7b]'></span>
                     </div>
+                    <div className="relative space-y-1 border-l-2 p-8 text-left">
+
+                        <h3 className='text-xl font-semibold md:text-2xl'>TJX Companies</h3>
+                        <p className='font-light text-lg text-gray-600'>Incoming Digital Experience Co-op</p>
+                        <p className='text-sm text-gray-600'>I am excited to be joining TJX companies in July as a co-op on their digital experience team</p>
+                        <span className='absolute -left-[11px] top-10 h-5 w-5 rounded-full bg-[#939e7b]'></span>
+                    </div>
                 </div>
             </div>
         </div>
